@@ -1,0 +1,5 @@
+{"text":"<|user|>\nWrite Python code to add two numbers.\n<|assistant|>\ndef add(a, b):\n    return a + b"}
+{"text":"<|user|>\nWhat is 2 + 3?\n<|assistant|>\n5"}
+{"text":"<|user|>\nWrite a Python function to check if a number is even.\n<|assistant|>\ndef is_even(n):\n    return n % 2 == 0"}
+{"text":"<|user|>\nWhat is 10 * 5?\n<|assistant|>\n50"}
+{"text":"<|user|>\nWrite a Python function to reverse a string.\n<|assistant|>\ndef reverse_string(text):\n    return text[::-1]"}
